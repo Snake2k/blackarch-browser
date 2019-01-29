@@ -1,0 +1,4 @@
+blackarch-tool-list
+*.pyc
+*.swp
+*.ycm_extra_conf.py*
